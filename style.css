@@ -15,15 +15,10 @@
     width: 150px;
     border-radius: 100px;
 }
-.pic1.jpg {
+img {
     box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
 }
-.pic2.jpg {
-    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
-}
-.pic3.jpg {
-    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
-}
+
 img:hover {
     border-radius: 140px;
 }
